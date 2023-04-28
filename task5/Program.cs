@@ -9,7 +9,7 @@ namespace task5
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// interface Мебель -> abstract class Шкаф -> class Книжный Шкаф.
         /// </summary>
         [STAThread]
         static void Main()
